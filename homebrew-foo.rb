@@ -1,4 +1,4 @@
-class HomebrewFoo < Formula
+class Foo < Formula
   desc "Explore setting up a homebrew formula"
   homepage "https://github.com/kirk-patton/homebrew-foo/tree/foo"
   url "https://github.com/kirk-patton/homebrew-foo/archive/refs/tags/v0.1.0.tar.gz"
